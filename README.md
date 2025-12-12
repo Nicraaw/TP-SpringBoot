@@ -37,6 +37,7 @@ Toutes les routes sont testables via le fichier d'export Postman fourni.
 | Suppression | `DELETE` | `/books/{id}` | Supprime un livre. 
 
 
+
 4. Livraison
 
 Ce projet est livré sous forme d'une archive contenant :
