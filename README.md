@@ -1,3 +1,5 @@
+TP effectué par Nicolas BUISSET et Sarah ZAIEM
+
 API REST : Gestion de Librairie
 Ce projet est une API REST développée sous **Spring Boot (Java 21)** pour gérer les entités `Livre` et `Auteur`.
 L'API supporte les opérations **CRUD** complètes (Création, Lecture, Mise à jour, Suppression) pour la ressource `Book` et les routes principales pour `Author`.
